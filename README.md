@@ -1,1 +1,5 @@
-# Ruth-Tech
+# Ruth-website
+HTML 
+CSS 
+PHP 
+MySQL 
